@@ -17,4 +17,4 @@ smnfkknsej
 
 git add .
 git commit -m '.'
-git push origin mainejweg,vaefnfjsegkjgslgsdvsmni
+git push origin mainejweg,vaefnfjsegkjgslgsdvsmnisdngj
